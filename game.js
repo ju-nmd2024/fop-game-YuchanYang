@@ -78,6 +78,8 @@
         text("Chopper Earth Lander", width / 2, height / 2 - 50);
         textSize(16);
         text("press 'B' to start", width / 2, height / 2);
+        textSize(14);
+        text("Use the spacebar to control the aircraft",width / 2, height / 2 + 50);
     }
     
     function playGame() {
